@@ -1,6 +1,6 @@
-let dice1List = ["Ollie", "Fs 180", "Bs 180", "Bs Shove It", "Fs Shove It", "Kickflip"]
-let dice2List = ["Heelflip", "Bigspin", "Varial Flip", "Bs Kickflip", "Nollie", "Hospital flip"]
-let dice3List = ["360 Flip", "Dolphin flip", "Sw kickflip", "Fs kickflip", "Hardflip"]
+let dice1List = ["Ollie", "Fs 180", "Bs 180", "Bs Shove It", "Fs Shove It"]
+let dice2List = ["Heelflip", "Kickflip", "Bigspin", "Varial Flip", "Bs Kickflip", "Hospital flip"]
+let dice3List = ["360 Flip", "Dolphin flip", "Fs kickflip", "Hardflip"]
 let stanceList = ["Regular", "Fakie", "Switch", "Nollie", "N'importe"]
 
 let rollBtn = document.getElementById("start-btn")
